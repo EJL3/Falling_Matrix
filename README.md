@@ -1,1 +1,2 @@
-# Falling_Matrix
+# Requirements
+pygame
